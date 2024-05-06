@@ -11,8 +11,9 @@ This repository accompanies the paper:
   url={https://arxiv.org/XX}
 }
 ```
-It contains collects primary and secondary instances of "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson (pejoratively) 
-to refers to the deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots". 
+It collects primary and secondary references to "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson (pejoratively) 
+to refers to the deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots", and thus lack some
+essential cognitive capacities that humans possess.
 
 **We invite you to 
 contribute to this repository by submitting new instances of Justaism that you come across in the literature or in the media.**
