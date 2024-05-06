@@ -1,5 +1,22 @@
 ## againstJustaism
 
+This repository accompanies the paper:
+
+```
+@article{againstJustaism,
+  title={Against Justaism: A call for more measured discussions on LLM cognition},
+  author={Zak Hussain and Rui Mata and Dirk U. Wulff},
+  journal={arXiv},
+  year={2024}
+  url={https://arxiv.org/XX}
+}
+```
+It contains collects primary and secondary instances of "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson (pejoratively) 
+to refers to the deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots". 
+
+**We invite you to 
+contribute to this repository by submitting new instances of Justaism that you come across in the literature or in the media.**
+
 ### Primary instances of Justaism
 
 "The widespread enthusiasm for LLMs should be tempered by an awareness that they are not actually simulating human intelligence [29,32,33]. LLMs simply predict the next phrase or sentence, given what they have been exposed to in the training data. Consequently, they tend to output an ‘average’ of what the internet or popular books tend to say"<br>
@@ -23,13 +40,12 @@
 "First we should ask the question, have large language models achieved anything, anything in this domain [natural language understanding]. Answer: no, they've achieved zero. [...] GPT-3 has done nothing. With a supercomputer it can look at 45 terabytes of data and find some superficial regularities, which then, it can imitate. "<br>
 [Chomsky, 2023, Interview with Machine Learning Street Talk](https://www.youtube.com/watch?v=axuGfh4UR9Q)
 
-"Put simply, LLMs do not understand the prompts given to them, and do not understand the text they generate. From a Linguistics perspective, researchers like
-Bender & Koller [12], highlight that the data upon which LLMs are trained does
-not contain intent that is present in human communication. This lack of intent
-means that only very weak semantics, or meaning, can be captured by a LLM
-trained on purely expression (structural) data." <br>
+"Our learned ability to process and find meaning in conversational text
+means that we slip, and often forget that we are not dealing with a human, and
+very quickly we anthropomorphise the bot. We may attribute personality traits
+to it. We may attribute an intended meaning to the generated text. Anthropomorphism of this nature is not trivial and can have serious consensuses, indeed
+previous research has highlighted people’s tendency to “overtrust” robotic systems with potentially disastrous outcomes [50].." <br>
 [O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821)
-
 
 
 ### Secondary references to Justaism 
