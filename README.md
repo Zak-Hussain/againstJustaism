@@ -20,6 +20,9 @@
 "An AI doesn’t contemplate your question. When you understand how they work, even at a superficial level, you realize it’s just a statistical algorithm. It’s a very cool and impressive statistical algorithm, but it doesn’t think or consider. Some people are surprised to learn that there’s no ‘mind’ there at all."<br>
 [Evans, 2023](https://www.elsevier.com/connect/with-the-rise-of-llms-what-should-we-really-be-concerned-about)
 
+"First we should ask the question, have large language models achieved anything, anything in this domain [natural language understanding]. Answer: no, they've achieved zero."<br>
+[Chomsky, 2023](https://www.youtube.com/watch?v=axuGfh4UR9Q)
+
 
 
 ### Secondary references to Justaism 
