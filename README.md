@@ -1,4 +1,4 @@
-## againstJustaism
+## Against Justaism
 
 This repository accompanies the paper:
 
