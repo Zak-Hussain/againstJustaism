@@ -51,8 +51,6 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 “ChatGPT ‘writes’ by estimating each new word in a sequence by statistical ranking, given the probabilities of certain words and word-pairs in its training data.19 This process doesn’t seem to require attributing knowledge, belief, or intention to ChatGPT to explain any of the processing." <br>
 [van Woudenberg et al., 2024, Philosophy and Technology](https://doi.org/10.1007/s13347-024-00715-1)
 
-"Like the prisoners in Plato’s famous cave, deep-learning systems explore the shadows on the cave wall and learn to accurately predict their movements. They lack the understanding that the observed shadows are mere projections of three-dimensional objects moving in a three-dimensional space. Strong AI requires this understanding."
-[Pearl & Mackenzie, 2018, Penguin Books](https://play.google.com/store/books/details/Judea_Pearl_The_Book_of_Why?id=9H0dDQAAQBAJ&hl=en_US&gl=US)
 
 
 
