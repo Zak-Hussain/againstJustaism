@@ -48,6 +48,9 @@ to it. We may attribute an intended meaning to the generated text. Anthropomorph
 previous research has highlighted people’s tendency to “overtrust” robotic systems with potentially disastrous outcomes [50].." <br>
 [O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821)
 
+“ChatGPT ‘writes’ by estimating each new word in a sequence by statistical ranking, given the probabilities of certain words and word-pairs in its training data.19 This process doesn’t seem to require attributing knowledge, belief, or intention to ChatGPT to explain any of the processing." <br>
+[van Woudenberg et al., 2024, Philosophy and Technology](https://doi.org/10.1007/s13347-024-00715-1)
+
 
 ### Secondary references to Justaism 
 
