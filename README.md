@@ -1,4 +1,4 @@
-## againstJustaism
+## Against Justaism
 
 This repository accompanies the paper:
 
@@ -16,7 +16,7 @@ to refers to the deflationary claims made by skeptics that LLMs are "just...": "
 essential cognitive capacities that humans possess.
 
 **We invite you to 
-contribute to this repository by submitting new instances of Justaism that you come across in the literature or in the media.**
+<a href="https://github.com/Zak-Hussain/againstJustaism/issues/new/choose">contribute to this repository</a> by submitting new instances of Justaism that you come across in the literature or in the media.**
 
 ### Primary instances of Justaism
 
