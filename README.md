@@ -59,6 +59,9 @@ you wish to use) life. [...] We as humans, I think there is something very profo
 it, we can't really grasp it, but it's part of us. I think that's how we have got here.' <br>
 [Santacaterina, 2024, Interview with Machine Learning Street Talk](https://www.youtube.com/watch?v=USpbuZ22kOI) [strong]
 
+"So I wanna make four points in the podcast, I will tell you what they are, and then I'll go through them. The first one, the most important one is that large language models do not model the world, they do not think about the world in the same way that human beings think about it. The second is that large language models don't have feelings, they don't have motivations, they're not the kind of creatures that human beings are in a very, very central way. The third point is that the words that we use to describe them like intelligence and values are misleading, we're borrowing words that have been useful to us as human beings, we're applying them in a different context where they don't perfectly match, and that causes problems. And finally, there is a lesson here that it is surprisingly easy to mimic humanness"<br>
+[Carroll, 2023, Mindscape Podcast](https://www.preposterousuniverse.com/podcast/2023/11/27/258-solo-ai-thinks-different/)[moderate]
+
 ### Secondary references to Justaism 
 
 In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
