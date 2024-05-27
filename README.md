@@ -60,7 +60,10 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 [Santacaterina, 2024, Interview with Machine Learning Street Talk](https://www.youtube.com/watch?v=USpbuZ22kOI) [strong]
 
 "So I wanna make four points in the podcast [...]. The first one, the most important one is that large language models do not model the world, they do not think about the world in the same way that human beings think about it. The second is that large language models don't have feelings, they don't have motivations, they're not the kind of creatures that human beings are in a very, very central way. The third point is that the words that we use to describe them like intelligence and values are misleading, we're borrowing words that have been useful to us as human beings, we're applying them in a different context where they don't perfectly match, and that causes problems. And finally, there is a lesson here that it is surprisingly easy to mimic humanness"<br>
-[Carroll, 2023, Mindscape Podcast](https://www.preposterousuniverse.com/podcast/2023/11/27/258-solo-ai-thinks-different/)[weak]
+[Carroll, 2023, Mindscape Podcast](https://www.preposterousuniverse.com/podcast/2023/11/27/258-solo-ai-thinks-different/) [weak]
+
+"artificial deep neural networks are very different from the human brain, and it is anthropomorphism if one thinks that they might think or anything like that. It's a statistical machine"<br>
+[Gigerenzer, 2024, Interview with Seekers Mindtalks](https://www.youtube.com/watch?v=BL1af5sJjdg)[strong]
 
 ### Secondary references to Justaism 
 
@@ -73,3 +76,9 @@ language in some non-trivial sense." – 51% agreed and the remaining 49% disagr
 
 "I suspect that the general public, including many journalists reporting on machine learning, aren’t even aware of the distinction between training the model and using it to make inferences. One simply reads that ChatGPT, or any other comparable LLM, generates text by predicting the next word. This mis-communication is a MAJOR blunder." <br>
 [Benzon, 2023, LessWrong](https://www.lesswrong.com/posts/sbaQv8zmRncpmLNKv/the-idea-that-chatgpt-is-simply-predicting-the-next-word-is)
+
+"Related hot take: how do we know that humans aren’t mostly just stochastic parrots? Wasn’t this in essence the claim made by exemplar theories that have been popular in cognitive psychology in the recent past?"<br>
+[Poldrack, 2024,  Twitter](https://twitter.com/russpoldrack/status/1789131984603926971)
+
+"i am a stochastic parrot, and so r u"<br>
+[Sam Altman, 2022, Twitter](https://x.com/sama/status/1599471830255177728?lang=en)
