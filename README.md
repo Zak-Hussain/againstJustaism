@@ -65,7 +65,7 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 "artificial deep neural networks are very different from the human brain, and it is anthropomorphism if one thinks that they might think or anything like that. It's a statistical machine"<br>
 [Gigerenzer, 2024, Interview with Seekers Mindtalks](https://www.youtube.com/watch?v=BL1af5sJjdg)[strong]
 
-### Secondary references to Justaism 
+### Secondary references/responses to Justaism 
 
 In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
 language in some non-trivial sense." – 51% agreed and the remaining 49% disagreed (out of 480 active NLP researcher respondents).<br>
@@ -82,3 +82,6 @@ language in some non-trivial sense." – 51% agreed and the remaining 49% disagr
 
 "i am a stochastic parrot, and so r u"<br>
 [Sam Altman, 2022, Twitter](https://x.com/sama/status/1599471830255177728?lang=en)
+
+"A lot of people will tell you 'These things aren't like us, they're just predicting the next symbol, they're not reasoning like us', but actually in order to predict the next symbol it's going to have to do some reasoning"<br>
+[Hinton, 2024, Interview with Sana](https://www.youtube.com/watch?v=n4IQOBka8bc&list=WL&index=2&t=3s)
