@@ -38,6 +38,9 @@ for each instance. These ratings are based not just on the quote itself, but als
 "In our view, they [LLMs] operate over ‘fossilized’ outputs of human language (text token) and seem capable of implementing some automatic computations pertaining to distributional statistics, but are incapable of understanding due to their lack of generative world models"<br>
 [Marcus et al., 2023, arXiv](https://doi.org/10.48550/arXiv.2308.00109) [moderate]
 
+"Some things get better as we make these neural network models, and some don’t. The reason that some don’t, in particular reliability and truthfulness, is because these systems don’t have those models of the world. They’re just looking, basically, at autocomplete. They’re just trying to autocomplete our sentences. And that’s not the depth that we need to actually get to what people call A.G.I., or artificial general intelligence."<br>
+[Marcus, 2023, Interview with Ezra Klein](https://www.nytimes.com/2023/01/06/podcasts/transcript-ezra-klein-interviews-gary-marcus.html) [strong]
+
 "An AI doesn’t contemplate your question. When you understand how they work, even at a superficial level, you realize it’s just a statistical algorithm. It’s a very cool and impressive statistical algorithm, but it doesn’t think or consider. Some people are surprised to learn that there’s no ‘mind’ there at all."<br>
 [Woolridge, 2023, Interview with Elsevier Connect](https://www.elsevier.com/connect/with-the-rise-of-llms-what-should-we-really-be-concerned-about) [strong]
 
