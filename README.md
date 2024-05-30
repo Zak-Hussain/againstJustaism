@@ -65,6 +65,9 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 "artificial deep neural networks are very different from the human brain, and it is anthropomorphism if one thinks that they might think or anything like that. It's a statistical machine"<br>
 [Gigerenzer, 2024, Interview with Seekers Mindtalks](https://www.youtube.com/watch?v=BL1af5sJjdg)[strong]
 
+"Algorithm driven technologies are far away from having mental states and understanding concepts or theories that are often considered to be constitutive for discursive practice and hence a conversation (Green Citation2020). Thus, it must be reminded that CAI is able to mimic a conversation, not to genuinely have it. Finally, to cite famous Searle’s response to the Touring test, “[computers/programs] have only a syntax but no semantics” (Searle Citation1980)."<br>
+[Sedlakova & Traschel, 2023, The American Journal of Bioethics](https://doi.org/10.1080/15265161.2022.2048739) [moderate]
+
 ### Secondary references/responses to Justaism 
 
 In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
