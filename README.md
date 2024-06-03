@@ -17,7 +17,7 @@ essential cognitive capacities that humans possess.
 **We invite you to 
 <a href="https://github.com/Zak-Hussain/againstJustaism/issues/new/choose">contribute to this repository</a> by submitting new instances of Justaism that you come across in the literature or in the media.**
 
-### Primary instances of Justaism
+### Instances of Justaism
 
 **Note:** The following will vary in their level of deflationism, question-begging, and general justaic strength. To aid in 
 conveying this diversity, we have included a Justaism strength rating ("strong", "moderate", "weak") in square brackets 
@@ -68,7 +68,7 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 "Algorithm driven technologies are far away from having mental states and understanding concepts or theories that are often considered to be constitutive for discursive practice and hence a conversation (Green Citation2020). Thus, it must be reminded that CAI is able to mimic a conversation, not to genuinely have it. Finally, to cite famous Searle’s response to the Touring test, “[computers/programs] have only a syntax but no semantics” (Searle Citation1980)."<br>
 [Sedlakova & Traschel, 2023, The American Journal of Bioethics](https://doi.org/10.1080/15265161.2022.2048739) [moderate]
 
-### Secondary references/responses to Justaism 
+### References/responses to Justaism 
 
 In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
 language in some non-trivial sense." – 51% agreed and the remaining 49% disagreed (out of 480 active NLP researcher respondents).<br>
