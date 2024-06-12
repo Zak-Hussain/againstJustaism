@@ -74,7 +74,7 @@ In response to the survey item – "Some generative model trained only on text, 
 language in some non-trivial sense." – 51% agreed and the remaining 49% disagreed (out of 480 active NLP researcher respondents).<br>
 [Michael et al., 2022, arXiv](https://doi.org/10.48550/arXiv.2208.12852)
 
-'there is a small but growing belief that a next-token predicting model is merelyan impressive improv artist that cannot truly model human thought. [...] This criticism has been floating around as an informal viewpoint (LeCun, 2024; Bubeck et al., 2023).'<br>
+'there is a small but growing belief that a next-token predicting model is merely an impressive improv artist that cannot truly model human thought. [...] This criticism has been floating around as an informal viewpoint (LeCun, 2024; Bubeck et al., 2023).'<br>
 [Bachmann & Nagarajan, 2024, arXiv](https://doi.org/10.48550/arXiv.2403.06963) 
 
 "I suspect that the general public, including many journalists reporting on machine learning, aren’t even aware of the distinction between training the model and using it to make inferences. One simply reads that ChatGPT, or any other comparable LLM, generates text by predicting the next word. This mis-communication is a MAJOR blunder." <br>
