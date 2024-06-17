@@ -23,6 +23,8 @@ essential cognitive capacities that humans possess.
 conveying this diversity, we have included a Justaism strength rating ("strong", "moderate", "weak") in square brackets 
 for each instance. These ratings are based not just on the quote itself, but also on the broader context in which it was made.
 
+#### Academic Articles/Preprints:
+
 "The widespread enthusiasm for LLMs should be tempered by an awareness that they are not actually simulating human intelligence [29,32,33]. LLMs simply predict the next phrase or sentence, given what they have been exposed to in the training data. Consequently, they tend to output an ‘average’ of what the internet or popular books tend to say"<br>
 [Demszky et al., 2023, Nature Reviews Psychology](https://doi.org/10.1038/s44159-023-00241-5) [weak]
 
@@ -38,15 +40,6 @@ for each instance. These ratings are based not just on the quote itself, but als
 "In our view, they [LLMs] operate over ‘fossilized’ outputs of human language (text token) and seem capable of implementing some automatic computations pertaining to distributional statistics, but are incapable of understanding due to their lack of generative world models"<br>
 [Marcus et al., 2023, arXiv](https://doi.org/10.48550/arXiv.2308.00109) [moderate]
 
-"Some things get better as we make these neural network models, and some don’t. The reason that some don’t, in particular reliability and truthfulness, is because these systems don’t have those models of the world. They’re just looking, basically, at autocomplete. They’re just trying to autocomplete our sentences. And that’s not the depth that we need to actually get to what people call A.G.I., or artificial general intelligence."<br>
-[Marcus, 2023, Interview with Ezra Klein](https://www.nytimes.com/2023/01/06/podcasts/transcript-ezra-klein-interviews-gary-marcus.html) [strong]
-
-"An AI doesn’t contemplate your question. When you understand how they work, even at a superficial level, you realize it’s just a statistical algorithm. It’s a very cool and impressive statistical algorithm, but it doesn’t think or consider. Some people are surprised to learn that there’s no ‘mind’ there at all."<br>
-[Woolridge, 2023, Interview with Elsevier Connect](https://www.elsevier.com/connect/with-the-rise-of-llms-what-should-we-really-be-concerned-about) [strong]
-
-"First we should ask the question, have large language models achieved anything, anything in this domain [natural language understanding]. Answer: no, they've achieved zero. [...] GPT-3 has done nothing. With a supercomputer it can look at 45 terabytes of data and find some superficial regularities, which then, it can imitate. "<br>
-[Chomsky, 2023, Interview with Machine Learning Street Talk](https://www.youtube.com/watch?v=axuGfh4UR9Q) [strong]
-
 "Our learned ability to process and find meaning in conversational text
 means that we slip, and often forget that we are not dealing with a human, and
 very quickly we anthropomorphise the bot. We may attribute personality traits
@@ -57,6 +50,23 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 “ChatGPT ‘writes’ by estimating each new word in a sequence by statistical ranking, given the probabilities of certain words and word-pairs in its training data.19 This process doesn’t seem to require attributing knowledge, belief, or intention to ChatGPT to explain any of the processing." <br>
 [van Woudenberg et al., 2024, Philosophy and Technology](https://doi.org/10.1007/s13347-024-00715-1) [moderate]
 
+"Algorithm driven technologies are far away from having mental states and understanding concepts or theories that are often considered to be constitutive for discursive practice and hence a conversation (Green Citation2020). Thus, it must be reminded that CAI is able to mimic a conversation, not to genuinely have it. Finally, to cite famous Searle’s response to the Touring test, “[computers/programs] have only a syntax but no semantics” (Searle Citation1980)."<br>
+[Sedlakova & Traschel, 2023, The American Journal of Bioethics](https://doi.org/10.1080/15265161.2022.2048739) [moderate]
+
+"However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-liketext." <br>
+[Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
+
+#### Wider Media Discourse:
+
+"Some things get better as we make these neural network models, and some don’t. The reason that some don’t, in particular reliability and truthfulness, is because these systems don’t have those models of the world. They’re just looking, basically, at autocomplete. They’re just trying to autocomplete our sentences. And that’s not the depth that we need to actually get to what people call A.G.I., or artificial general intelligence."<br>
+[Marcus, 2023, Interview with Ezra Klein](https://www.nytimes.com/2023/01/06/podcasts/transcript-ezra-klein-interviews-gary-marcus.html) [strong]
+
+"An AI doesn’t contemplate your question. When you understand how they work, even at a superficial level, you realize it’s just a statistical algorithm. It’s a very cool and impressive statistical algorithm, but it doesn’t think or consider. Some people are surprised to learn that there’s no ‘mind’ there at all."<br>
+[Woolridge, 2023, Interview with Elsevier Connect](https://www.elsevier.com/connect/with-the-rise-of-llms-what-should-we-really-be-concerned-about) [strong]
+
+"First we should ask the question, have large language models achieved anything, anything in this domain [natural language understanding]. Answer: no, they've achieved zero. [...] GPT-3 has done nothing. With a supercomputer it can look at 45 terabytes of data and find some superficial regularities, which then, it can imitate. "<br>
+[Chomsky, 2023, Interview with Machine Learning Street Talk](https://www.youtube.com/watch?v=axuGfh4UR9Q) [strong]
+
 'It doesn't matter how much you scale AI you will never have a formula that can definitely describe, model, represent (whichever terminology
 you wish to use) life. [...] We as humans, I think there is something very profound in our being, in our essence – call it consciousness if you will – we can't really define
 it, we can't really grasp it, but it's part of us. I think that's how we have got here.' <br>
@@ -64,12 +74,6 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 
 "artificial deep neural networks are very different from the human brain, and it is anthropomorphism if one thinks that they might think or anything like that. It's a statistical machine"<br>
 [Gigerenzer, 2024, Interview with Seekers Mindtalks](https://www.youtube.com/watch?v=BL1af5sJjdg)[strong]
-
-"Algorithm driven technologies are far away from having mental states and understanding concepts or theories that are often considered to be constitutive for discursive practice and hence a conversation (Green Citation2020). Thus, it must be reminded that CAI is able to mimic a conversation, not to genuinely have it. Finally, to cite famous Searle’s response to the Touring test, “[computers/programs] have only a syntax but no semantics” (Searle Citation1980)."<br>
-[Sedlakova & Traschel, 2023, The American Journal of Bioethics](https://doi.org/10.1080/15265161.2022.2048739) [moderate]
-
-"However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-liketext." <br>
-[Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
 ### References/responses to Justaism 
 
