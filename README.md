@@ -19,7 +19,7 @@ essential cognitive capacities that humans possess.
 
 ### Instances of Justaism
 
-**Note:** The following will vary in their level of deflationism, question-begging, and general justaic strength. To aid in 
+**Note:** The following will vary in their level of deflationism, question-beggingness, and general Justaic strength. To aid in 
 conveying this diversity, we have included a Justaism strength rating ("strong", "moderate", "weak") in square brackets 
 for each instance. These ratings are based not just on the quote itself, but also on the broader context in which it was made.
 
@@ -67,6 +67,9 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 
 "Algorithm driven technologies are far away from having mental states and understanding concepts or theories that are often considered to be constitutive for discursive practice and hence a conversation (Green Citation2020). Thus, it must be reminded that CAI is able to mimic a conversation, not to genuinely have it. Finally, to cite famous Searle’s response to the Touring test, “[computers/programs] have only a syntax but no semantics” (Searle Citation1980)."<br>
 [Sedlakova & Traschel, 2023, The American Journal of Bioethics](https://doi.org/10.1080/15265161.2022.2048739) [moderate]
+
+"However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-liketext." <br>
+[Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
 ### References/responses to Justaism 
 
