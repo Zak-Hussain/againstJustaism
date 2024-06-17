@@ -15,7 +15,7 @@ It collects references to "Justaism" (pronounced "just-a-ism"), a term [coined](
 essential cognitive capacities that humans possess.
 
 **We invite you to 
-<a href="https://github.com/Zak-Hussain/againstJustaism/issues/new/choose">contribute to this repository</a> by submitting new instances of Justaism that you come across in the literature or in the media.**
+<a href="https://github.com/Zak-Hussain/againstJustaism/issues/new/choose">contribute to this repository</a> by submitting new instances of Justaism or comments on Justaic claims that you come across in the literature or in the media.**
 
 ### Instances of Justaism
 
