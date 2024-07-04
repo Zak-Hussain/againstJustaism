@@ -44,7 +44,7 @@ for each instance. These ratings are based not just on the quote itself, but als
 means that we slip, and often forget that we are not dealing with a human, and
 very quickly we anthropomorphise the bot. We may attribute personality traits
 to it. We may attribute an intended meaning to the generated text. Anthropomorphism of this nature is not trivial and can have serious consensuses, indeed
-previous research has highlighted people’s tendency to “overtrust” robotic systems with potentially disastrous outcomes [50].." <br>
+previous research has highlighted people’s tendency to “overtrust” robotic systems with potentially disastrous outcomes [50]." <br>
 [O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821) [weak]
 
 “ChatGPT ‘writes’ by estimating each new word in a sequence by statistical ranking, given the probabilities of certain words and word-pairs in its training data.19 This process doesn’t seem to require attributing knowledge, belief, or intention to ChatGPT to explain any of the processing." <br>
@@ -53,7 +53,7 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 "Algorithm driven technologies are far away from having mental states and understanding concepts or theories that are often considered to be constitutive for discursive practice and hence a conversation (Green Citation2020). Thus, it must be reminded that CAI is able to mimic a conversation, not to genuinely have it. Finally, to cite famous Searle’s response to the Touring test, “[computers/programs] have only a syntax but no semantics” (Searle Citation1980)."<br>
 [Sedlakova & Traschel, 2023, The American Journal of Bioethics](https://doi.org/10.1080/15265161.2022.2048739) [moderate]
 
-"However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-liketext." <br>
+"However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-like text." <br>
 [Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
 #### Wider Media Discourse:
