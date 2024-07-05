@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 ```
 @article{againstJustaism,
-  title={Against Justaism: A call for more measured discussions on LLM cognition},
+  title={Are LLMs ‘just’ next-token predictors?},
   author={Zak Hussain and Rui Mata and Dirk U. Wulff},
   journal={arXiv},
   year={2024}
