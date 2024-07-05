@@ -75,6 +75,9 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 "artificial deep neural networks are very different from the human brain, and it is anthropomorphism if one thinks that they might think or anything like that. It's a statistical machine"<br>
 [Gigerenzer, 2024, Interview with Seekers Mindtalks](https://www.youtube.com/watch?v=BL1af5sJjdg)[strong]
 
+"Machines don’t learn. Right? Machines copy, and then they basically match a user’s prompt with an analysis of patterns in what they’ve copied. And then they finish the pattern based on predictive algorithms or models. Right? That’s not what humans do. Humans have lived experiences. They have souls. They have genius." <br>
+[Glazer, 2024,  Hard Fork Podcast](https://www.nytimes.com/2024/06/28/podcasts/hardfork-ai-music-lawsuits.html?showTranscript=1)[strong]
+
 ### References/responses to Justaism 
 
 In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
