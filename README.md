@@ -29,16 +29,13 @@ for each instance. These ratings are based not just on the quote itself, but als
 [Demszky et al., 2023, Nature Reviews Psychology](https://doi.org/10.1038/s44159-023-00241-5) [weak]
 
 "A bare-bones LLM does not really know anything because all it does, at a fundamental level, is sequence prediction."<br>
-[Shanahan, 2024, Communications of the ACM](https://dx.doi.org/10.1145/3624724) [moderate]
+[Shanahan, 2024, Communications of the ACM](https://dx.doi.org/10.1145/3624724) [weak]
 
 "As sequence predictors, these models draw on the underlying statistical distribution of previously generated text to stitch together vectorized symbol strings based on the probabilities of their co-occurrence4. They therefore lack the communicatively embodied and relational functionings that are a prerequisite of scientific meaning-making, in the barest sense."<br>
 [Birhane et al., 2023, Nature Reviews Physics](https://doi.org/10.1038/s42254-023-00581-4) [moderate]
 
 "LLMs are not trained to understand language as humans do. By ‘learning’ the statistical associations between words as they have been used by humans, GPT-3 develops an ability to successfully predict which word best completes a phrase or sentence."<br>
 [Thirunavukarasu et al., 2023, Nature Medicine](https://doi.org/10.1038/s41591-023-02448-8) [weak]
-
-"In our view, they [LLMs] operate over ‘fossilized’ outputs of human language (text token) and seem capable of implementing some automatic computations pertaining to distributional statistics, but are incapable of understanding due to their lack of generative world models"<br>
-[Marcus et al., 2023, arXiv](https://doi.org/10.48550/arXiv.2308.00109) [moderate]
 
 "Our learned ability to process and find meaning in conversational text
 means that we slip, and often forget that we are not dealing with a human, and
