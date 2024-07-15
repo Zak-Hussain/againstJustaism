@@ -28,9 +28,6 @@ for each instance. These ratings are based not just on the quote itself, but als
 "The widespread enthusiasm for LLMs should be tempered by an awareness that they are not actually simulating human intelligence [29,32,33]. LLMs simply predict the next phrase or sentence, given what they have been exposed to in the training data. Consequently, they tend to output an ‘average’ of what the internet or popular books tend to say"<br>
 [Demszky et al., 2023, Nature Reviews Psychology](https://doi.org/10.1038/s44159-023-00241-5) [weak]
 
-"A bare-bones LLM does not really know anything because all it does, at a fundamental level, is sequence prediction."<br>
-[Shanahan, 2024, Communications of the ACM](https://dx.doi.org/10.1145/3624724) [weak]
-
 "As sequence predictors, these models draw on the underlying statistical distribution of previously generated text to stitch together vectorized symbol strings based on the probabilities of their co-occurrence4. They therefore lack the communicatively embodied and relational functionings that are a prerequisite of scientific meaning-making, in the barest sense."<br>
 [Birhane et al., 2023, Nature Reviews Physics](https://doi.org/10.1038/s42254-023-00581-4) [moderate]
 
