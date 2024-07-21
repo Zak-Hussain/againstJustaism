@@ -3,12 +3,14 @@
 This repository accompanies the paper:
 
 ```
-@article{againstJustaism,
-  title={Are LLMs ‘just’ next-token predictors?},
-  author={Zak Hussain and Rui Mata and Dirk U. Wulff},
-  journal={arXiv},
-  year={2024}
-  url={https://arxiv.org/XX}
+@misc{hussain_mata_wulff_2024,
+ title={Are LLMs “just” next-token predictors?},
+ url={osf.io/y34ur},
+ DOI={10.31219/osf.io/y34ur},
+ publisher={OSF Preprints},
+ author={Hussain, Zak and Mata, Rui and Wulff, Dirk U},
+ year={2024},
+ month={Jul}
 }
 ```
 It collects references to "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson to (pejoratively) refer to deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots", and thus lack some
