@@ -1,4 +1,4 @@
-## Against Justaism
+## Are LLMs “just” next-token predictors?
 
 This repository accompanies the paper:
 
