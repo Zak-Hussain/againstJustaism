@@ -1,6 +1,6 @@
 ## Are LLMs “just” next-token predictors?
 
-This repository accompanies the paper:
+This repository accompanies the <a href="https://osf.io/preprints/osf/y34ur">paper</a>:
 
 ```
 @misc{hussain_mata_wulff_2024,
