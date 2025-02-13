@@ -1,6 +1,6 @@
 ## Are LLMs “just” next-token predictors?
 
-This repository accompanies the paper: 'Are LLMs "just" next-token predictors?'. 
+This repository accompanies the paper: 'Do LLMs think---or are they "just" predicting the next token'. 
 
 
 It collects references to "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson to (pejoratively) refer to unsubstantiated deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots", and thus lack some
