@@ -1,23 +1,10 @@
 ## Are LLMs “just” next-token predictors?
 
-This repository accompanies the <a href="https://osf.io/preprints/osf/y34ur">paper</a>:
+This repository accompanies the paper: 'Are LLMs "just" next-token predictors?'. 
 
-```
-@misc{hussain_mata_wulff_2024,
- title={Are LLMs “just” next-token predictors?},
- url={osf.io/y34ur},
- DOI={10.31219/osf.io/y34ur},
- publisher={OSF Preprints},
- author={Hussain, Zak and Mata, Rui and Wulff, Dirk U},
- year={2024},
- month={Jul}
-}
-```
+
 It collects references to "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson to (pejoratively) refer to unsubstantiated deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots", and thus lack some
 essential cognitive capacities that humans possess.
-
-**We invite you to 
-<a href="https://github.com/Zak-Hussain/againstJustaism/issues/new/choose">contribute to this repository</a> by submitting new instances of Justaism or comments on Justaic claims that you come across in the literature or in the media.**
 
 ### Instances of Justaism
 
