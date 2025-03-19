@@ -39,6 +39,9 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 "However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-like text." <br>
 [Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
+"Despite their sophisticated algorithms and voluminous train- ing data (encompassing materials such as web pages, Wikipedia articles, social media posts, academic articles, books and instruc- tion data), they are mathematical models and lack an understand- ing of the world. These tools are designed to predict the likelihood of text, rather than to generate truth."
+[Lin, 2024, Nature Human Behavior](https://doi.org/10.1038/s41562-024-01847-2)[moderate]
+
 #### Wider Media Discourse:
 
 "Some things get better as we make these neural network models, and some don’t. The reason that some don’t, in particular reliability and truthfulness, is because these systems don’t have those models of the world. They’re just looking, basically, at autocomplete. They’re just trying to autocomplete our sentences. And that’s not the depth that we need to actually get to what people call A.G.I., or artificial general intelligence."<br>
