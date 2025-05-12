@@ -64,6 +64,9 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 "Machines don’t learn. Right? Machines copy, and then they basically match a user’s prompt with an analysis of patterns in what they’ve copied. And then they finish the pattern based on predictive algorithms or models. Right? That’s not what humans do. Humans have lived experiences. They have souls. They have genius." <br>
 [Glazer, 2024,  Hard Fork Podcast](https://www.nytimes.com/2024/06/28/podcasts/hardfork-ai-music-lawsuits.html?showTranscript=1)[strong]
 
+"All it [Claude] does is token predictions. Yes, it uses intermediate steps that you can interpret as internal reasoning, but it's still just token predictions. It hasn't developed an abstract 'maths core' or anything."<br>
+[Hossenfelder, 2025, YouTube video title 'New Research Reveals How AI "Thinks" (It Doesn't)'](https://www.youtube.com/watch?v=-wzOetb-D3w)[moderate]
+
 ### References/responses to Justaism 
 
 In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
