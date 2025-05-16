@@ -1,7 +1,8 @@
 ## A rebuttal of two common deflationary stances against LLM cognition
 
-This repository accompanies the paper: 'A rebuttal of two common deflationary stances against LLM cognition'. 
+This repository accompanies the paper:
 
+Hussain, Z., Mata, R., & Wulff, D. U. (in press). A rebuttal of two common deflationary stances against LLM cognition. *Findings of the Association for Computational Linguistics: ACL 2025*, XX, XX.
 
 It collects references to "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson to (pejoratively) refer to unsubstantiated deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots", and thus lack some
 essential cognitive capacities that humans possess.
