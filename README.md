@@ -41,7 +41,7 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 [Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
 "Despite their sophisticated algorithms and voluminous train- ing data (encompassing materials such as web pages, Wikipedia articles, social media posts, academic articles, books and instruc- tion data), they are mathematical models and lack an understand- ing of the world. These tools are designed to predict the likelihood of text, rather than to generate truth."
-[Lin, 2024, Nature Human Behavior](https://doi.org/10.1038/s41562-024-01847-2)[moderate]
+[Lin, 2024, Nature Human Behavior](https://doi.org/10.1038/s41562-024-01847-2) [moderate]
 
 #### Wider Media Discourse:
 
