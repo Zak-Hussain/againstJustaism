@@ -1,23 +1,10 @@
-## Are LLMs “just” next-token predictors?
+## A rebuttal of two common deflationary stances against LLM cognition
 
-This repository accompanies the <a href="https://osf.io/preprints/osf/y34ur">paper</a>:
+This repository accompanies the paper: 'A rebuttal of two common deflationary stances against LLM cognition'. 
 
-```
-@misc{hussain_mata_wulff_2024,
- title={Are LLMs “just” next-token predictors?},
- url={osf.io/y34ur},
- DOI={10.31219/osf.io/y34ur},
- publisher={OSF Preprints},
- author={Hussain, Zak and Mata, Rui and Wulff, Dirk U},
- year={2024},
- month={Jul}
-}
-```
+
 It collects references to "Justaism" (pronounced "just-a-ism"), a term [coined](https://scottaaronson.blog/?p=7784) by Scott Aaronson to (pejoratively) refer to unsubstantiated deflationary claims made by skeptics that LLMs are "just...": "next-token predictors", "function approximators", or "stochastic parrots", and thus lack some
 essential cognitive capacities that humans possess.
-
-**We invite you to 
-<a href="https://github.com/Zak-Hussain/againstJustaism/issues/new/choose">contribute to this repository</a> by submitting new instances of Justaism or comments on Justaic claims that you come across in the literature or in the media.**
 
 ### Instances of Justaism
 
@@ -52,6 +39,9 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 "However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-like text." <br>
 [Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
+"Despite their sophisticated algorithms and voluminous train- ing data (encompassing materials such as web pages, Wikipedia articles, social media posts, academic articles, books and instruc- tion data), they are mathematical models and lack an understand- ing of the world. These tools are designed to predict the likelihood of text, rather than to generate truth."
+[Lin, 2024, Nature Human Behavior](https://doi.org/10.1038/s41562-024-01847-2)[moderate]
+
 #### Wider Media Discourse:
 
 "Some things get better as we make these neural network models, and some don’t. The reason that some don’t, in particular reliability and truthfulness, is because these systems don’t have those models of the world. They’re just looking, basically, at autocomplete. They’re just trying to autocomplete our sentences. And that’s not the depth that we need to actually get to what people call A.G.I., or artificial general intelligence."<br>
@@ -73,6 +63,9 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 
 "Machines don’t learn. Right? Machines copy, and then they basically match a user’s prompt with an analysis of patterns in what they’ve copied. And then they finish the pattern based on predictive algorithms or models. Right? That’s not what humans do. Humans have lived experiences. They have souls. They have genius." <br>
 [Glazer, 2024,  Hard Fork Podcast](https://www.nytimes.com/2024/06/28/podcasts/hardfork-ai-music-lawsuits.html?showTranscript=1)[strong]
+
+"All it [Claude] does is token predictions. Yes, it uses intermediate steps that you can interpret as internal reasoning, but it's still just token predictions. It hasn't developed an abstract 'maths core' or anything."<br>
+[Hossenfelder, 2025, YouTube video title 'New Research Reveals How AI "Thinks" (It Doesn't)'](https://www.youtube.com/watch?v=-wzOetb-D3w)[moderate]
 
 ### References/responses to Justaism 
 
