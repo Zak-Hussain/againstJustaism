@@ -70,11 +70,17 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 
 ### References/responses to Justaism 
 
-In response to the survey item – "Some generative model trained only on text, given enough data and computational resources, could understand natural
-language in some non-trivial sense." – 51% agreed and the remaining 49% disagreed (out of 480 active NLP researcher respondents).<br>
+"Those on the 'LLMs do not understand' side of the debate argue that while the fluency of large language models is surprising, 
+our surprise reflects our lack of intuition of what statistical correlations can produce at the scales of these models. 
+Anyone who attributes understanding or consciousness to LLMs is a victim of the Eliza effect (24)—named after the 1960s 
+chatbot created by Joseph Weizenbaum that, simple as it was, still fooled people into believing it understood them (25)."<br>
+[Mitchell & Krakauer, 2023, PNAS](https://doi.org/10.1073/pnas.2215907120)
+
+"In response to the survey item – 'Some generative model trained only on text, given enough data and computational resources, could understand natural
+language in some non-trivial sense.' – 51% agreed and the remaining 49% disagreed (out of 480 active NLP researcher respondents)."<br>
 [Michael et al., 2022, arXiv](https://doi.org/10.48550/arXiv.2208.12852)
 
-'there is a small but growing belief that a next-token predicting model is merely an impressive improv artist that cannot truly model human thought. [...] This criticism has been floating around as an informal viewpoint (LeCun, 2024; Bubeck et al., 2023).'<br>
+"there is a small but growing belief that a next-token predicting model is merely an impressive improv artist that cannot truly model human thought. [...] This criticism has been floating around as an informal viewpoint (LeCun, 2024; Bubeck et al., 2023)."<br>
 [Bachmann & Nagarajan, 2024, arXiv](https://doi.org/10.48550/arXiv.2403.06963) 
 
 "I suspect that the general public, including many journalists reporting on machine learning, aren’t even aware of the distinction between training the model and using it to make inferences. One simply reads that ChatGPT, or any other comparable LLM, generates text by predicting the next word. This mis-communication is a MAJOR blunder." <br>
