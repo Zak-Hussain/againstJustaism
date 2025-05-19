@@ -27,15 +27,12 @@ for each instance. These ratings are based not just on the quote itself, but als
 "A truly intelligent and creative agent/system should be capable of selecting a word
 based on first-order logical and deductive reasoning thus reducing the generation of nonsensical output to nearly zero, 
 as opposed to the current mechanism LLMs employ which is based on probabilistic stochastic selection, adding weight
-to our categorisation of LLMs as complex “auto-complete” tools. [...] "<br>
-[O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821) [moderate]
-
-"Our learned ability to process and find meaning in conversational text
+to our categorisation of LLMs as complex “auto-complete” tools. [...] Our learned ability to process and find meaning in conversational text
 means that we slip, and often forget that we are not dealing with a human, and
 very quickly we anthropomorphise the bot. We may attribute personality traits
 to it. We may attribute an intended meaning to the generated text. Anthropomorphism of this nature is not trivial and can have serious consensuses, indeed
-previous research has highlighted people’s tendency to “overtrust” robotic systems with potentially disastrous outcomes [50]." <br>
-[O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821) [weak]
+previous research has highlighted people’s tendency to “overtrust” robotic systems with potentially disastrous outcomes [50]."<br>
+[O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821) [moderate]
 
 “ChatGPT ‘writes’ by estimating each new word in a sequence by statistical ranking, given the probabilities of certain words and word-pairs in its training data.19 This process doesn’t seem to require attributing knowledge, belief, or intention to ChatGPT to explain any of the processing." <br>
 [van Woudenberg et al., 2024, Philosophy and Technology](https://doi.org/10.1007/s13347-024-00715-1) [moderate]
@@ -83,6 +80,11 @@ it, we can't really grasp it, but it's part of us. I think that's how we have go
 [Hossenfelder, 2025, YouTube video title 'New Research Reveals How AI "Thinks" (It Doesn't)'](https://www.youtube.com/watch?v=-wzOetb-D3w)[moderate]
 
 ### References/responses to Justaism 
+
+"We also found that more people considered mistaking a computer for a
+human being a bigger problem than vice versa and this choice was greatly influenced by the
+participants’ negative attitudes towards robots."<br>
+[Ujhelyi et al., 2022, Psihologijske teme](https://doi.org/10.31820/pt.31.1.9)
 
 "Those on the 'LLMs do not understand' side of the debate argue that while the fluency of large language models is surprising, 
 our surprise reflects our lack of intuition of what statistical correlations can produce at the scales of these models. 
