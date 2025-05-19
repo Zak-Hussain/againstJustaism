@@ -24,6 +24,12 @@ for each instance. These ratings are based not just on the quote itself, but als
 "LLMs are not trained to understand language as humans do. By ‘learning’ the statistical associations between words as they have been used by humans, GPT-3 develops an ability to successfully predict which word best completes a phrase or sentence."<br>
 [Thirunavukarasu et al., 2023, Nature Medicine](https://doi.org/10.1038/s41591-023-02448-8) [weak]
 
+"A truly intelligent and creative agent/system should be capable of selecting a word
+based on first-order logical and deductive reasoning thus reducing the generation of nonsensical output to nearly zero, 
+as opposed to the current mechanism LLMs employ which is based on probabilistic stochastic selection, adding weight
+to our categorisation of LLMs as complex “auto-complete” tools. [...] "<br>
+[O'Neil & Connor, 2023, arXiv](https://doi.org/10.48550/arXiv.2307.04821) [moderate]
+
 "Our learned ability to process and find meaning in conversational text
 means that we slip, and often forget that we are not dealing with a human, and
 very quickly we anthropomorphise the bot. We may attribute personality traits
@@ -40,8 +46,16 @@ previous research has highlighted people’s tendency to “overtrust” robotic
 "However, large language models, and other AI models like ChatGPT, are doing considerably less than what human brains do, and it is not clear whether they do what they do in the same way we do. The most obvious difference between an LLM and a human mind involves the goals of the system. Humans have a variety of goals and behaviours, most of which are extra-linguistic [...]. Large language models simply aim to replicate human speech or writing. This means that their primary goal, insofar as they have one, is to produce human-like text." <br>
 [Hicks et al., 2024, Ethics and Information Technology](https://doi.org/10.1007/s10676-024-09775-5) [weak]
 
-"Despite their sophisticated algorithms and voluminous train- ing data (encompassing materials such as web pages, Wikipedia articles, social media posts, academic articles, books and instruc- tion data), they are mathematical models and lack an understand- ing of the world. These tools are designed to predict the likelihood of text, rather than to generate truth."
+"Despite their sophisticated algorithms and voluminous train- ing data (encompassing materials such as web pages, Wikipedia articles, social media posts, academic articles, books and instruc- tion data), they are mathematical models and lack an understand- ing of the world. These tools are designed to predict the likelihood of text, rather than to generate truth."<br>
 [Lin, 2024, Nature Human Behavior](https://doi.org/10.1038/s41562-024-01847-2) [moderate]
+
+"Take, for example, octopuses. Certainly octopuses are intelligent. But is anybody ‘in there’? How about bees? 
+Or organoids — mini brain-like structures in a dish12? As dissimilarity with us increases, we should require more 
+evidence to be convinced that ‘someone’ is ‘in there’ because our prior expectations become less reliable. 
+In theory, this should mean an even higher bar for AI, but instead the opposite seems to be true. We are prone to 
+anthropomorphizing AI40, especially now with large language models, because they seem ‘human’ through imitating human 
+language patterns so fluently."<br> 
+[LeDoux et al., 2023, Current Biology](https://doi.org/10.1016/j.cub.2023.06.067) [weak]
 
 #### Wider Media Discourse:
 
